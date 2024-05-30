@@ -1,5 +1,4 @@
-This is the first line of the dummy text.
-Here is the second line for more content.
-Adding a third line to this dummy text file.
-Fourth line is here, almost at the end.
-Finally, this is the fifth line of text.End of File
+This is a line without any errors.
+There was an error in processing.
+This is the new line insertedAnother line with no errors.
+Oh no, another error occurred.
